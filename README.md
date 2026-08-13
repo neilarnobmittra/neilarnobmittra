@@ -180,50 +180,35 @@ A data analytics project focused on identifying patterns in infectious disease c
 
 ---
 
-## 📊 GitHub Statistics
+<h2><strong>📊 GitHub Statistics</strong></h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    width="360"
-    alt="Neilarnob GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true"
+    width="350"
+    alt="GitHub Statistics"
   />
 </p>
 
----
-
-## 🏆 Most Used Languages
+<h2><strong>🏆 Most Used Languages</strong></h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true&langs_count=6"
-    width="360"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true"
+    width="350"
     alt="Most Used Languages"
   />
 </p>
 
----
-
-## 🐍 Contribution Snake
+<h2><strong>📈 GitHub Contributions</strong></h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="600"
-    />
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=neilarnobmittra&theme=github-dark&hide_border=true"
+    width="700"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
-
 ---
 
 ## 📫 Connect With Me
