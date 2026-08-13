@@ -1,3 +1,4 @@
+````markdown
 # 🛡️ Cybersecurity & AI Enthusiast
 
 <p align="center">
@@ -44,7 +45,7 @@ Hi, I'm **Neilarnob Mittra** 👋
 └─$ system_status
    ████████████████████ 100%
    SYSTEM SECURE ✓
-```
+````
 
 ---
 
@@ -60,12 +61,12 @@ Hi, I'm **Neilarnob Mittra** 👋
 
 **Security Focus**
 
-- 🔎 Phishing Detection
-- 🛡️ Brand Impersonation
-- 🌐 Typosquatting
-- 🚨 Threat Detection
-- 🔐 Web Security
-- 🧠 Security Analysis
+* 🔎 Phishing Detection
+* 🛡️ Brand Impersonation
+* 🌐 Typosquatting
+* 🚨 Threat Detection
+* 🔐 Web Security
+* 🧠 Security Analysis
 
 ---
 
@@ -120,14 +121,14 @@ QuantumShield AI analyzes URLs, domains, metadata and website characteristics to
 
 **Features**
 
-- 🔎 Real-time phishing website detection
-- 🛡️ Brand impersonation detection
-- 🌐 Typosquatting detection
-- 🧠 AI-based risk assessment
-- 🔄 Self-learning feedback system
-- ✅ Trusted domain whitelisting
-- 📊 Security risk scoring dashboard
-- 🚨 Report as Phishing / Report as Safe
+* 🔎 Real-time phishing website detection
+* 🛡️ Brand impersonation detection
+* 🌐 Typosquatting detection
+* 🧠 AI-based risk assessment
+* 🔄 Self-learning feedback system
+* ✅ Trusted domain whitelisting
+* 📊 Security risk scoring dashboard
+* 🚨 Report as Phishing / Report as Safe
 
 **Tech Stack**
 
@@ -145,12 +146,12 @@ HeartGuard AI predicts the potential risk of heart disease using machine learnin
 
 **Key Features**
 
-- 📊 Data preprocessing
-- 🤖 Machine Learning prediction
-- 📈 Risk analysis
-- ⚡ Real-time prediction interface
-- 🧠 Logistic Regression
-- 🌳 Random Forest
+* 📊 Data preprocessing
+* 🤖 Machine Learning prediction
+* 📈 Risk analysis
+* ⚡ Real-time prediction interface
+* 🧠 Logistic Regression
+* 🌳 Random Forest
 
 **Tech Stack**
 
@@ -168,11 +169,11 @@ A data analytics project focused on identifying patterns in infectious disease c
 
 **Key Features**
 
-- 📈 Case trend analysis
-- 👥 Patient demographic analysis
-- ⏱️ Recovery-time analysis
-- 🌍 Regional impact analysis
-- 📊 Data visualization
+* 📈 Case trend analysis
+* 👥 Patient demographic analysis
+* ⏱️ Recovery-time analysis
+* 🌍 Regional impact analysis
+* 📊 Data visualization
 
 **Tech Stack**
 
@@ -198,7 +199,7 @@ A data analytics project focused on identifying patterns in infectious disease c
 
 ---
 
-<h2><strong>🐍 Contribution Snake</strong></h2>
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -217,6 +218,7 @@ A data analytics project focused on identifying patterns in infectious disease c
     />
   </picture>
 </p>
+
 ---
 
 ## 📫 Connect With Me
@@ -240,3 +242,4 @@ A data analytics project focused on identifying patterns in infectious disease c
 <p align="center">
 ⭐ Thanks for visiting my profile!
 </p>
+```
