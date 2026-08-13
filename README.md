@@ -198,12 +198,25 @@ A data analytics project focused on identifying patterns in infectious disease c
 
 ---
 
-## 🐍 Contribution Snake
+<h2><strong>🐍 Contribution Snake</strong></h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="750">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="650"
+    />
+  </picture>
 </p>
-
 ---
 
 ## 📫 Connect With Me
