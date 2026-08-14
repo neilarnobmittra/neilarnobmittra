@@ -49,6 +49,37 @@ Special focus: Phishing Detection | Brand Impersonation | Self-learning Systems
 ![Quantum ML](https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
 ## 🚀 Featured Projects
+---
+
+### 🩺 MediPredict-AI
+
+**AI-Powered Disease Prediction & Health Risk Assessment Platform**
+
+MediPredict-AI is an AI-powered healthcare platform that uses machine learning to assess health risks and predict possible diseases from user-provided symptoms and health information.
+
+**Key Features**
+
+- 🧠 Machine Learning-based disease prediction
+- 🩺 Symptom checker with Top 5 predicted diseases
+- 📋 Vitals and health information form
+- 📊 Personalized health dashboard
+- 🕒 Prediction history
+- 🔐 Firebase authentication
+- 🌐 Email / Google / Apple login support
+- 📍 Nearby doctor discovery using Google Maps
+- 📱 Responsive and mobile-friendly interface
+- 🌙 Dark mode
+- 🐳 Docker support for deployment
+
+**Supported Health Risk Areas**
+
+`Diabetes` `Heart Disease` `Kidney Disease` `Liver Disease` `Stroke` `Other Conditions`
+
+**Tech Stack**
+
+`Python` `Flask` `Machine Learning` `HTML` `CSS` `JavaScript` `Firebase` `Docker`
+
+👉 [View Repository](https://github.com/neilarnobmittra/MediPredict-AI)
 
 ### 🔐 QuantumShield AI
 **Quantum Machine Learning based Phishing Website & Brand Impersonation Detection System**
