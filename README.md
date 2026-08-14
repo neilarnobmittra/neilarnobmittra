@@ -36,6 +36,7 @@ Special focus: Phishing Detection | Brand Impersonation | Self-learning Systems
 
 ## 💻 Programming & Tools
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -93,8 +94,9 @@ Analyzes patient data to identify infection patterns, demographics, recovery tim
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true&langs_count=10" height="165" alt="Top Languages" />
 </p>
+
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg)
