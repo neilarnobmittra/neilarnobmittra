@@ -92,10 +92,9 @@ Analyzes patient data to identify infection patterns, demographics, recovery tim
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true" height="165" alt="Top Languages" />
 </p>
-
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-contribution-grid-snake.svg)
