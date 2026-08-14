@@ -1,19 +1,29 @@
-<h2><strong>🐍 Contribution Snake</strong></h2>
+name: Generate Contribution Snake
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/output/github-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="600"
-    />
-  </picture>
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: neilarnobmittra
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish Snake
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
