@@ -156,10 +156,11 @@ Analyzes patient data to identify infection patterns, demographics, recovery tim
 
 ---
 
-## 🚀 Space Shooter
+## 🎮 Space Shooter
 
-![My GitHub Game](game.gif)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/neilarnobmittra/neilarnobmittra/main/game.gif" alt="Space Shooter" />
+</p>
 ---
 
 ## 📫 Connect With Me
