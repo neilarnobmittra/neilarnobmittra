@@ -1,16 +1,170 @@
-## Hi there 👋
+# 🛡️ Cybersecurity & AI Enthusiast
 
-<!--
-**neilarnobmittra/neilarnobmittra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Securing+the+Digital+World;AI+%26+Cybersecurity+Enthusiast;Building+Real-World+Security+Tools)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **Neilarnob Mittra**
+BCA + BBA student | Developer | AI & Cybersecurity Enthusiast
+
+- 🔭 Currently working on **AI-powered phishing & brand impersonation detection**
+- 🌱 Learning: Web Application Security, Quantum Machine Learning for security, Threat Detection
+- 💡 Passionate about building tools that protect users from phishing and fake websites
+- ⚡ Building real-world projects that blend **tech + business** skills
+
+## 🖥️ Terminal
+
+```text
+$ whoami
+Neilarnob Mittra — AI & Cybersecurity Enthusiast
+
+$ cat about.txt
+BCA & BBA Student | Building security tools with AI
+Special focus: Phishing Detection | Brand Impersonation | Self-learning Systems
+```
+
+## 🧰 Cybersecurity Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+## 💻 Programming & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🤖 AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/Quantum_ML-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+
+## 🚀 Featured Projects
+
+---
+
+### 🩺 MediPredict-AI
+
+**AI-Powered Disease Prediction & Health Risk Assessment Platform**
+
+MediPredict-AI is an AI-powered healthcare platform that uses machine learning to assess health risks and predict possible diseases from user-provided symptoms and health information.
+
+**Key Features**
+
+- 🧠 Machine Learning-based disease prediction
+- 🩺 Symptom checker with Top 5 predicted diseases
+- 📋 Vitals and health information form
+- 📊 Personalized health dashboard
+- 🕒 Prediction history
+- 🔐 Firebase authentication
+- 🌐 Email / Google / Apple login support
+- 📍 Nearby doctor discovery using Google Maps
+- 📱 Responsive and mobile-friendly interface
+- 🌙 Dark mode
+- 🐳 Docker support for deployment
+
+**Supported Health Risk Areas**
+
+`Diabetes` `Heart Disease` `Kidney Disease` `Liver Disease` `Stroke` `Other Conditions`
+
+**Tech Stack**
+
+`Python` `Flask` `Machine Learning` `HTML` `CSS` `JavaScript` `Firebase` `Docker`
+
+👉 [View Repository](https://github.com/neilarnobmittra/MediPredict-AI)
+
+---
+
+### 🔐 QuantumShield AI
+**Quantum Machine Learning based Phishing Website & Brand Impersonation Detection System**
+
+**Problem**
+Phishing websites and brand impersonation (typosquatting) attacks are increasing rapidly.
+
+**Solution**
+QuantumShield AI analyzes URLs, domains, and metadata, using a quantum-enhanced risk scoring component plus a self-learning feedback system to detect threats in real-time.
+
+**Features**
+- Real-time Phishing Website Detection
+- Brand Impersonation & Typosquatting Detection
+- Quantum-inspired Risk Boost (Qiskit)
+- Self-Learning Feedback System
+- Trusted Domain Whitelisting
+- Professional Dashboard
+
+**Tech Stack**
+`Python` | `Flask` | `scikit-learn` | `Qiskit` | `HTML` | `Tailwind CSS` | `JavaScript`
+
+→ [View Repository](https://github.com/neilarnobmittra/QuantumShield)
+
+---
+
+### ❤️ HeartGuard AI
+**Heart Disease Prediction System using Machine Learning**
+
+Predicts the risk of heart disease in real-time using Logistic Regression and Random Forest models.
+
+→ [View Repository](https://github.com/neilarnobmittra/---AI-Heart-Disease-Predictor)
+
+---
+
+### 📊 HealthGuard Analytics
+**COVID-19 Early Case Trend Analysis**
+
+Analyzes patient data to identify infection patterns, demographics, recovery time, and regional impact.
+
+→ [View Repository](https://github.com/neilarnobmittra/Code-Nakshatra-Analytics-Project-Infectious-Disease-Case-Analysis)
+
+---
+
+## 📊 GitHub Statistics & Programming Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=neilarnobmittra&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neilarnobmittra&layout=compact&theme=dark&hide_border=true&langs_count=15&count_private=true"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+### 💻 Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Space Shooter
+
+![My GitHub Game](game.gif)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neilarnob-mittra)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neilarnobmittra)
+
+⭐️ Thanks for visiting my profile!
